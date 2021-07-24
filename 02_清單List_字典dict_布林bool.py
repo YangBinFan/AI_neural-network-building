@@ -1,5 +1,5 @@
 
-# 清單
+# list
 
 a = [1, 2, 3, 4, 5]
 print(a)
@@ -15,7 +15,7 @@ print(a[:3])
 print(a[:-1])
 print(a[:-2])
 
-# 字典型態
+# dictionary type
 
 me = {'height':180}
 print(me['height'])
@@ -24,7 +24,7 @@ me['weight'] = 70
 print(me)
 print(me['weight'])
 
-# 布林型態
+# bool type
 
 hungry = True
 sleepy = False
