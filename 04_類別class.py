@@ -1,5 +1,5 @@
 
-# 類別
+# class
 
 class Man:
 
